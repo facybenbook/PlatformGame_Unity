@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obstacle
+  - Ground
+  - uphillGround
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 883148507
+    locked: 0
+  - name: tile
+    uniqueID: 200822937
+    locked: 0
+  - name: object
+    uniqueID: 2138155625
+    locked: 0
+  - name: character
+    uniqueID: 3667321375
+    locked: 0
+  - name: aboveObject
+    uniqueID: 1211161067
+    locked: 0
